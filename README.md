@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Souhaib Chadidi !
-<a align='right' href="https://app.daily.dev/chadidi02"><img src="https://api.daily.dev/devcards/c6f455e0b78744fb84230c938d7306c4.png?r=5nm" width="400" alt="Souhaib Chadidi's Dev Card"/></a>
+<a align='right' href="https://app.daily.dev/chadidi02"><img src="https://api.daily.dev/devcards/c6f455e0b78744fb84230c938d7306c4.png?r=5nm" width="300" alt="Souhaib Chadidi's Dev Card"/></a>
 
 <a href='https://www.linkedin.com/in/chadidi02/'><img align='left' alt="twitter" src="https://pics.freeicons.io/uploads/icons/png/17063494911559031673-512.png" width=' 30px'/></a>
 <a href='https://twitter.com/chadidi02'><img align='left' alt="twitter" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" width=' 30px'/></a>
