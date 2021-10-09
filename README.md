@@ -26,7 +26,6 @@ I'm a self-taught Front end developer with over 2 years 🛠️.
 <img align="left" alt="VScode" height ="42px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4">
 <img align="left" alt="Bootstrap" height ="42px" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4">
 <img align="left" alt="Sass" height ="42px" src="https://pics.freeicons.io/uploads/icons/png/9259630901552037068-512.png">
-<br>
 <img align="left" alt="Webpack" height ="42px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png">
 <img align="left" alt="Git" height ="42px" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png">
 <img align="left" alt="NodeJs" height ="42px" src="https://pics.freeicons.io/uploads/icons/png/9655574981556105319-512.png">
