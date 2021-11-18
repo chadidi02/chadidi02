@@ -25,8 +25,3 @@ I'm a self-taught Front end developer with over 2 years 🛠️.
 <img align="left" alt="Node.js" height ="42px" src="https://pics.freeicons.io/uploads/icons/png/8954758561551942278-512.png">
 <img align="left" alt="Sass" height ="42px" src="https://pics.freeicons.io/uploads/icons/png/6655067911551942823-512.png">
 <img align="left" alt="tailwindcss" height ="42px" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4">
-<img align="left" alt="Bootstrap" height ="42px" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4">
-
-
-
-
