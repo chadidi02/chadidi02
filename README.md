@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souhaib Chadidi !</h1>
-<p align="center">Front end developer with a passion for using 🛠️ Javascript, React and Tailwind to build a great website ✨ 🌐 🍃</p>
+<p align="center">I am a front end developer with a passion for using 🛠️ Javascript, React and Tailwind to build a great website ✨ 🌐 🍃</p>
 <br />
 🧐 More About Me:
 
