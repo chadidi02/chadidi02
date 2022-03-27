@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souhaib Chadidi !</h1>
+<p align="center">Front end developer with a passion for using 🛠️ Javascript, React and Tailwind to build a great website ✨ 🌐 🍃</p>
 <br />
-
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently learning Vue.js
