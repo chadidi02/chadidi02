@@ -9,7 +9,6 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/chadidi02/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chadidi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chadidi02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chadidi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chadidi02" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/chadidi_o" target="blank"><img src="https://img.shields.io/twitter/follow/chadidi02?logo=twitter&style=for-the-badge" alt="chadidi_o" /></a>
 </p>
