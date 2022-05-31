@@ -3,7 +3,7 @@
 <br />
 🧐 More About Me:
 
-- 🌱 &nbsp; I’m currently learning Vue.js
+- 🌱 &nbsp; I’m currently learning Next.js
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/chadidi02)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/chadidi02/)
