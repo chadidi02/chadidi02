@@ -10,5 +10,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/chadidi_o" target="blank"><img src="https://img.shields.io/twitter/follow/chadidi02?logo=twitter&style=for-the-badge" alt="chadidi_o" /></a>
+  <a href="https://twitter.com/chadidi02" target="blank"><img src="https://img.shields.io/twitter/follow/chadidi02?logo=twitter&style=for-the-badge" alt="chadidi_o" /></a>
 </p>
